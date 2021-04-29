@@ -3,7 +3,7 @@
   <metadata>
     <id>test</id>
     <version>__REPLACE__</version>
-    <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages</packageSourceUrl>
+    <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/</packageSourceUrl>
     <owners>RalfEs</owners>
 
     <title>Test (Install)</title>
@@ -11,7 +11,7 @@
     <projectUrl>https://_Software_Location_REMOVE_OR_FILL_OUT_</projectUrl>
     <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/test.png</iconUrl>
     <licenseUrl>Software License Location __REMOVE_OR_FILL_OUT__</licenseUrl>
-    <requireLicenseAcceptance>true</requireLicenseAcceptance>-->
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>Software Source Location - is the software FOSS somewhere? Link to it with this</projectSourceUrl>
     <docsUrl>At what url are the software docs located?</docsUrl>
     <bugTrackerUrl></bugTrackerUrl>
