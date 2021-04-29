@@ -28,7 +28,7 @@ $uninstalled = $false
 
 if ($key.Count -eq 1) {
   $key | % { 
-    $packageArgs['file'] = "$($_.UninstallString)" #NOTE: You may need to split this if it contains spaces, see below
+    $packageArgs['file'] = "$($_.UninstallString)"
     
     if ($packageArgs['fileType'] -eq 'MSI') {
       $packageArgs['silentArgs'] = "$($_.PSChildName) $($packageArgs['silentArgs'])"
