@@ -3,7 +3,7 @@
   <metadata>
     <id>test</id>
     <version>__REPLACE__</version>
-    <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/</packageSourceUrl>
+    <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/</packageSourceUrl>
     <owners>RalfEs</owners>
 
     <title>Test (Install)</title>
